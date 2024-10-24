@@ -1,2 +1,2 @@
 # Digital-Control
-The course project: Magnet Levitation System
+The course project: Magnet levitation system controller
